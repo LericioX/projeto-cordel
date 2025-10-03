@@ -9,7 +9,7 @@
 :root {
     --fonte1: Verdana , Tahoma, sans-serif;
     --fonte2: "Passero One", cursive;
-    --fonte3: "Rouge Script", cursive;
+    --fonte3: Tahoma, cursive;
 }
 
 * {
